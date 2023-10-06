@@ -69,4 +69,4 @@ The motivation behind File Creator stems from personal experiences and the broad
 
 ### Contribution 
 
-We welcome contributions from the community. Please refer to the [contributing guidelines](CONTRIBUTING.md) for more details. The repo is located at https:://github.com/hadrianhu888/file-creator.
+We welcome contributions from the community. Please refer to the [contributing guidelines](CONTRIBUTING.md) for more details. The repo is located at <https://github.com/hadrianhu888/CreateNewFile.git>
