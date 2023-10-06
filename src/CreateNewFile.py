@@ -12,8 +12,7 @@ def create_file():
         messagebox.showerror("Error", "Invalid or empty path!")
         return
 
-    filename_with_extension = simpledialog.askstring(title_filename, 
-                                                     prompt_filename)
+    filename_with_extension = simpledialog.askstring(title_filename, prompt_filename)
     if not filename_with_extension:
         messagebox.showerror("Error", "Filename cannot be empty!")
         return
