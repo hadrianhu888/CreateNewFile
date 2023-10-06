@@ -1,8 +1,8 @@
 # File Creator
 
-### About Me 
+### About Me
 
-My name is Hadrian Hu and I am a SIL SIE at General Motors, Canada. I created this application to save time when creating file extension types outside of the regular Windows context menu, since development often requires more than ```.txt``` files. I hope you find this application useful and if you have any questions, please feel free to reach out to me at ```hadrian.hu@gmail.com```. 
+My name is Hadrian Hu and I am a SIL SIE at General Motors, Canada. I created this application to save time when creating file extension types outside of the regular Windows context menu, since development often requires more than ``.txt`` files. I hope you find this application useful and if you have any questions, please feel free to reach out to me at ``hadrian.hu@gmail.com``.
 
 ## Overview
 
@@ -26,47 +26,44 @@ The motivation behind File Creator stems from personal experiences and the broad
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your_username/file-creator.git
-   cd file-creator
+   https://github.com/hadrianhu888/CreateNewFile.git
    ```
 2. **Install the dependencies:**
 
-    ```
-    pip install -r requirements.txt
-    ```
+   ```
+   pip install -r requirements.txt
+   ```
 
-    Note: The above step assumes you have a `requirements.txt` file. If not, install necessary libraries as required.
-
+   Note: The above step assumes you have a `requirements.txt` file. If not, install necessary libraries as required.
 3. **Generate Executable** :
 
-    If you wish to generate a standalone executable:
+   If you wish to generate a standalone executable:
 
    First, install `PyInstaller`:
 
-    ```
-    pip install pyinstaller
-    ```
+   ```
+   pip install pyinstaller
+   ```
 
-    **Generate the executable:** 
+   **Generate the executable:**
 
-    ```
-    pyinstaller --onefile your_script_name.py 
-    ```
-    
+   ```
+   pyinstaller --onefile your_script_name.py 
+   ```
 4. **Run the application:**
-   
-   If using the python script: 
+
+   If using the python script:
 
    ```
    python ./src/CreateNewFile.py
    ```
 
-    If using the executable:
+   If using the executable:
 
-    ```./dist/CreateNewFile.exe
-    ./dist/CreatNewFile.exe
-    ```
+   ```./dist/CreateNewFile.exe
+   ./dist/CreatNewFile.exe
+   ```
 
-### Contribution 
+### Contribution
 
-We welcome contributions from the community. Please refer to the [contributing guidelines](CONTRIBUTING.md) for more details. The repo is located at <https://github.com/hadrianhu888/CreateNewFile.git>
+We welcome contributions from the community. Please refer to the [contributing guidelines](CONTRIBUTING.md) for more details. The repo is located at [https://github.com/hadrianhu888/CreateNewFile.git](https://github.com/hadrianhu888/CreateNewFile.git)
