@@ -1,5 +1,9 @@
 # File Creator
 
+### About Me 
+
+My name is Hadrian Hu and I am a SIL SIE at General Motors, Canada. I created this application to save time when creating file extension types outside of the regular Windows context menu, since development often requires more than ```.txt``` files. I hope you find this application useful and if you have any questions, please feel free to reach out to me at ```hadrian.hu@gmail.com```. 
+
 ## Overview
 
 File Creator is a simple yet powerful utility that allows users to quickly create files with any desired extension. With the rise of various file types and the need to quickly scaffold out new files, there was a distinct need for a tool that streamlines the file creation process, eliminating the repetitive task of navigating through file explorers and manually defining extensions.
